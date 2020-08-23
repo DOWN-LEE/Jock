@@ -1,6 +1,6 @@
 ## Jock 1.0v
 ## Made by Lee.Down
-## L_Down\nL.DOWNCOMP@gamil.com
+## L.DOWNCOMP@gamil.com
 
 import sys
 from PyQt5.QtWidgets import *
