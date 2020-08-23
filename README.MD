@@ -25,7 +25,7 @@ Development Environment <br/>
 
 ## File Directory
  + 족.exe  
- + 양식/  
+ + 양식/
    -양식.hwp  
  * hwp/  
    -문제 한글(.hwp) 파일들  
