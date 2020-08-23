@@ -24,13 +24,13 @@ Development Environment <br/>
 
 
 ## File Directory
- *족.exe  
- *양식/  
+ + 족.exe  
+ + 양식/  
  +  -양식.hwp  
- *hwp/  
+ * hwp/  
  +  -문제 한글(.hwp) 파일들  
- *excel/  
+ * excel/  
  +  -문제 단원 정리 엑셀(.xls) 파일들  
- *data/  
+ * data/  
  +  -savedata.p  
- *output/  
+ * output/  
