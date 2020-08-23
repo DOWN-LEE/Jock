@@ -6,10 +6,10 @@ Made by
 Support & Contact
 	- L.DOWNCOMP@gmail.com
 
-Development Environment
-	 Python 3.8
-	 Hwp 2018
-	 Excel 2016
-	 Windows 10
+Development Environment <br/>
+	-Python 3.8 <br/>
+	-Hwp 2018 <br/>
+	-Excel 2016 <br/>
+	-Windows 10 <br/>
 
 ## Introduction
